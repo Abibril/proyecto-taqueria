@@ -1,0 +1,6 @@
+{
+  "name": "Taquería Cat-Cos",
+  "description": "Una taquería con temática de gatitos y color morado pastel, gestionada mediante base de datos relacional para pedidos por meseros y preparación por cocineros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
